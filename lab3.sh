@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #Prassana Sivakumaran 215091259
-
+#version 1
 #Check if the user has input a parameter
 if [ $# -eq 0 ]
 then
